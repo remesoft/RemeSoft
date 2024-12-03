@@ -70,9 +70,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/remesoft/remesoft/output/snake.svg" 
+<!-- <img src="https://raw.githubusercontent.com/remesoft/remesoft/output/snake.svg" 
      alt="Snake animation" 
-     style="margin-top: -100px;" />
+     style="margin-top: -100px;" /> -->
 
 
 
